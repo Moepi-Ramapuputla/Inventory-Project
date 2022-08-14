@@ -1,0 +1,7 @@
+Brazil,U2918293,Air Force,25000,150
+Uganda,F21939,Air Max,2000,222
+Canada,G39281,Timberland,22000,110
+New Zealand,G23491,Vans,30000,92
+G23491,Vans,30000,92,2012
+Nigeria,V526143,Tommys,21000,74
+Argentina,T90384,Jordans,10000,165
